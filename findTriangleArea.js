@@ -8,7 +8,6 @@ triArea(7, 4) ➞ 14
 triArea(10, 10) ➞ 50
 */
 
-
 function triArea(x, y){
     let area = x * y / 2;
     return area;
