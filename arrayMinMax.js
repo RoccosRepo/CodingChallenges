@@ -21,7 +21,6 @@ let nums = [1, 2, 3, 4, 5];
 console.log(minMax(nums));
 
 
-
 function minMaxTwo(arr){
     let min = Math.min(...arr);
     let max = Math.max(...arr);
