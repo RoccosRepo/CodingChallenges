@@ -1,1 +1,2 @@
-# This repository is a group of various coding challenges.
+# Coding Challenges
+This repository is a compilation of various coding challenges.
